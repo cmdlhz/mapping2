@@ -12,6 +12,6 @@
  RequestDispatcher rd = request.getRequestDispatcher("/WEB-INF/target.jsp");
  rd.forward(request, response);
 -->
-<a href="/test/abcdef">Move to the TestController!</a>
+<a href="/test/list">Move to the TestController!</a>
 </body>
 </html>
